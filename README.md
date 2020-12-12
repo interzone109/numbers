@@ -1,4 +1,4 @@
-# numbers
+# Numbers
 
 The service describes interesting data about numbers.
 
