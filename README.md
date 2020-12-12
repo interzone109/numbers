@@ -10,4 +10,4 @@ User manual
 
 2)Go to url http://localhost:8080/metric to see the metrics: 10 most popular numbers, average latency of the Numbers service, average success rate of the Numbers service.
 
-Technologies:spring boot, hibernate, PostgreSQL, gradle
+Technologies: spring boot, hibernate, PostgreSQL, gradle
